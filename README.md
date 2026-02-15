@@ -40,11 +40,11 @@ For complete analysis, see [`AB Testing Project.ipynb`](https://github.com/jonah
 ## Results and Conclusions
 ### Experiment Results and Lift vs. Control
 The test campaign resulted in a 70% lift in the CTR and a 47% lift in the Purchase Rate. There was not a significant lift in the Add-to-Cart Rate. 
-<p align="center">  <img src="/images/experiment_results.png" width="400" /> <img src="/images/lift_vs_control.png" width="500" /> </p> <p align="center">
+<p align="center">  <img src="/images/experiment_results.png" width="500" /> <img src="/images/lift_vs_control.png" width="500" /> </p> <p align="center">
 
 ### Funnel Analysis: Where did the test campaign make the biggest difference?
 There were more impressions in the control campaign by about 1 million, but the test campaign generated about as many purchases. Higher clicks were the main driver of the lift in purchases: despite having fewer impressions, the test campaign generated 25k more clicks.
-<p align="center">  <img src="/images/impressions.png" width="400" /> <img src="/images/funnel.png" width="500" /> </p> <p align="center">
+<p align="center">  <img src="/images/impressions.png" width="500" /> <img src="/images/funnel.png" width="500" /> </p> <p align="center">
 
 ### Quality Check: Did the Purchase Rate vary significantly by day of the campaign? By day of the week?
 Both the control and test campaigns saw lower purchase rates on the weekend. Purchase rates in the test campaign were much higher on Tuesdays (by almost 100% relative to the control campaign), driven in large part by an outlier on 8/19 that warrants closer inspection. Overall, purchase rates were consistently higher in the test campaign, outperforming the control campaign on 21 out of 29 days.
